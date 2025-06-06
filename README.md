@@ -1,1 +1,3 @@
+##Purpose
+
 As Russia's westernmost territory, Kaliningrad provides direct access to the Baltic Sea and is surrounded by NATO countries, making it a focal point for East-West tensions. The site hosts the headquarters of Russia's Baltic Fleet, advanced missile systems like the nuclear-capable Iskander missiles, and sophisticated electronic warfare capabilities. Recent events, such as Russia's invasion of Ukraine and NATO's subsequent bolstering of defense in Eastern Europe, have heightened the strategic importance of monitoring this region. This purpose of this project is to provide a replicable framework for GEOINT analysis that can be applied to other strategic areas worldwide
