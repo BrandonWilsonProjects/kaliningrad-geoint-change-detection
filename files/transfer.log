@@ -1,0 +1,25 @@
+2025-06-14 18:48:51,945 - INFO - pipeline start: 2025-06-14 18:48:51.939632
+2025-06-14 18:48:51,951 - INFO - processing dem_clipped.tif
+2025-06-14 23:28:58,962 - INFO - pipeline start: 2025-06-14 23:28:58.962119
+2025-06-14 23:28:58,995 - ERROR - Database connection failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: fe_sendauth: no password supplied
+
+2025-06-14 23:28:58,996 - ERROR - Pipeline failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: fe_sendauth: no password supplied
+
+2025-06-15 18:51:19,254 - INFO - pipeline start: 2025-06-15 18:51:19.254691
+2025-06-15 18:51:19,322 - ERROR - Database connection failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: fe_sendauth: no password supplied
+
+2025-06-15 18:51:19,323 - ERROR - Pipeline failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: fe_sendauth: no password supplied
+
+2025-06-15 19:58:00,338 - INFO - pipeline start: 2025-06-15 19:58:00.338594
+2025-06-15 19:58:00,360 - ERROR - Database connection failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: fe_sendauth: no password supplied
+
+2025-06-15 19:58:00,360 - ERROR - Pipeline failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: fe_sendauth: no password supplied
+
+2025-06-15 20:08:56,115 - INFO - pipeline start: 2025-06-15 20:08:56.115632
+2025-06-15 20:08:56,137 - INFO - processing dem_clipped.tif
+2025-06-15 20:08:56,145 - ERROR - Error loading dem_clipped.tif: unsupported operand type(s) for +: 'float' and 'str'
+2025-06-15 20:08:56,146 - ERROR - Pipeline failed: unsupported operand type(s) for +: 'float' and 'str'
+2025-06-15 20:27:12,760 - INFO - pipeline start: 2025-06-15 20:27:12.760003
+2025-06-15 20:27:12,772 - INFO - processing dem_clipped.tif
+2025-06-15 20:36:47,634 - ERROR - Error loading dem_clipped.tif: Command '['psql', '-U', 'postgres', '-h', 'localhost', '-p', '5432', '-d', 'kaliningraddata']' timed out after 600 seconds
+2025-06-15 20:36:47,635 - ERROR - Pipeline failed: Command '['psql', '-U', 'postgres', '-h', 'localhost', '-p', '5432', '-d', 'kaliningraddata']' timed out after 600 seconds
